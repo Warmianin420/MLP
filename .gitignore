@@ -1,0 +1,18 @@
+# venv
+.venv/
+venv/
+.venv311/
+
+# IDE
+.idea/
+
+# python cache
+__pycache__/
+*.pyc
+
+# modele / artefakty (opcjonalnie, jeśli nie chcesz wrzucać do repo)
+*.pkl
+*.keras
+
+# Word temp files
+~$*.docx
