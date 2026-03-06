@@ -13,7 +13,6 @@ PATIENCE = 12
 TARGET_COLS = [
     "kettle", "induction_cooker", "phone_charger", "microwave", "mixer",
     "toaster", "tv", "spin_dryer", "coffee_maker", "immersion_heater",
-    "sandwich_maker", "decoder", "lamp", "aquarium", "heater",
-    "usb_c_charger", "laptop", "christmas_tree", "timer",
-    "hair_straightener", "fridge", "printer", "bathroom_heater", "Monitor"
+    "decoder", "lamp", "aquarium", "heater", "usb_c_charger", "laptop", "christmas_tree", "timer",
+    "hair_straightener", "fridge", "printer", "toaster_sandwich", "bathroom_heater", "Monitor"
 ]

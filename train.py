@@ -229,6 +229,7 @@ class MainsMultiLabelTrainer:
             monitor="val_loss",
             patience=self.patience,
             restore_best_weights=True,
+            verbose=1
         )
 
         self.model.fit(
